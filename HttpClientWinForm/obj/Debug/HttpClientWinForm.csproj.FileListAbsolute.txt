@@ -1,0 +1,8 @@
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\bin\Debug\HttpClientWinForm.exe
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\bin\Debug\HttpClientWinForm.pdb
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\obj\Debug\HttpClientWinForm.frmDefault.resources
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\obj\Debug\HttpClientWinForm.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\obj\Debug\HttpClientWinForm.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\obj\Debug\HttpClientWinForm.exe
+c:\users\owner\documents\visual studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\obj\Debug\HttpClientWinForm.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\HttpClientWinForm\HttpClientWinForm\obj\Debug\HttpClientWinForm.csprojResolveAssemblyReference.cache
