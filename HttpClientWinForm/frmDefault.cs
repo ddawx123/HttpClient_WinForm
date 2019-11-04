@@ -18,6 +18,7 @@ namespace HttpClientWinForm
         public frmDefault()
         {
             InitializeComponent();
+            ServicePointManager.SecurityProtocol |= (SecurityProtocolType)0x300 | (SecurityProtocolType)0xc00;
         }
 
         private void btnSubmit_Click(object sender, EventArgs e)
